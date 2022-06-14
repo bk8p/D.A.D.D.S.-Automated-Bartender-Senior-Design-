@@ -1,0 +1,30 @@
+Raspberry Pi 7" Touch Screen Display
+https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/ref=as_li_ss_tl?dchild=1&keywords=pi+7+screen&qid=1595471521&sr=8-2&linkCode=sl1&tag=makerprojec0c-20&linkId=2a298c3410a24013655f40e691d39b7c&language=en_US
+
+Peristaltic Liquid Pump (x4) 
+https://www.amazon.com/INTLLAB-Peristaltic-Liquid-Aquarium-Analytical/dp/B0791YL351/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=makerprojec0c-20&linkId=f892870903f9e44ed3e6ffe654017c75&language=en_US
+
+Mini Electromagnetic Solenoid Lock DC 12V
+https://www.amazon.com/Atoplee-Electric-Assembly-Solenoid-27X29X18mm/dp/B01FH1JCPU/ref=pd_lpo_1?pd_rd_i=B01FH1JCPU&psc=1
+
+Logic Level Converter Bi-Directional 3.3V-5V 
+https://www.amazon.com/HiLetgo-Channels-Converter-Bi-Directional-3-3V-5V/dp/B07F7W91LC/ref=sr_1_4?keywords=logic+level+converter&qid=1655218011&sprefix=logic+level+%2Caps%2C128&sr=8-4
+*RASPBERRY PI PINS CAN ONLY HANDLE 3.3V**THATS WHY WE GO FROM 5v -> 3.3V****
+
+Adafruit MCP3008 8-Channel 10-Bit ADC With SPI Interface for Raspberry Pi
+https://www.amazon.com/Adafruit-MCP3008-8-Channel-Interface-Raspberry/dp/B00NAY3RB2/ref=sr_1_3?crid=1QVRFYMPAIJAM&keywords=mcp3008&qid=1655218069&sprefix=MCP300%2Caps%2C115&sr=8-3
+*I would recommend going with a 12 or 16-bit ADC for higher resolution and more accurate readings.*
+
+12V 5A Power Supply Adapter Converter Transformer AC 100-240V 
+https://www.amazon.com/ALITOVE-Adapter-Converter-100-240V-5-5x2-1mm/dp/B01GEA8PQA/ref=sr_1_3?keywords=12v+power+supply&qid=1655218691&sprefix=12v%2Caps%2C151&sr=8-3
+
+RFID HAT for Raspberry Pi with 0.91” OLED Display, RFID Shield Expansion HAT
+https://www.amazon.com/components-Raspberry-Display-Expansion-Control/dp/B08KQFBBJ8/ref=sr_1_3?keywords=raspberry+pi+rfid+hat&qid=1655218793&sprefix=RFID+hat+rasp%2Caps%2C110&sr=8-3 
+
+2 Pack MQ-3 Special Alcohol Ethanol Gas Sensor Module
+https://www.amazon.com/Special-Alcohol-Ethanol-Sensor-Module/dp/B07835MMB3/ref=sr_1_3?crid=1KU4LUNGGHL6U&keywords=MQ-3&qid=1655218910&sprefix=mq-3%2Caps%2C113&sr=8-3&th=1\
+
+8 Channel DC 5V Relay Module 
+https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTELP3I/ref=sr_1_13?crid=1MDIF3KQSQLVT&keywords=relay+board&qid=1655218988&sprefix=relay+board%2Caps%2C116&sr=8-13
+
+LOTS OF HOME DEPOT FLOORING SAMPLES

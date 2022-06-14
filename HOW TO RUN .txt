@@ -1,0 +1,3 @@
+RUN GUI TO RUN THE FULLY INTEGRATED SYSTEM. 
+
+MCP3008x takes the dirty air samples and compares to R0 file 
